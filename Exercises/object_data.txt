@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Arsene",
+    "age": 17,
+    "subject": "Maths",
+    "marks": 90
+  },
+  {
+    "name": "John",
+    "age": 16,
+    "subject": "Python",
+    "marks": 80
+  },
+  {
+    "name": "Doe",
+    "age": 18,
+    "subject": "Java",
+    "marks": 95
+  },
+  {
+    "name": "Katherine",
+    "age": 20,
+    "subject": "Physics",
+    "marks": 98
+  }
+]
